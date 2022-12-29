@@ -1,0 +1,28 @@
+D:\Subjects\6 Semester\SCD Lab\Lab_Tasks\Lab_task_6\Lab_task_6\bin\Debug\Lab_task_6.exe.config
+D:\Subjects\6 Semester\SCD Lab\Lab_Tasks\Lab_task_6\Lab_task_6\bin\Debug\Lab_task_6.exe
+D:\Subjects\6 Semester\SCD Lab\Lab_Tasks\Lab_task_6\Lab_task_6\bin\Debug\Lab_task_6.pdb
+D:\Subjects\6 Semester\SCD Lab\Lab_Tasks\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.csproj.AssemblyReference.cache
+D:\Subjects\6 Semester\SCD Lab\Lab_Tasks\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.csproj.SuggestedBindingRedirects.cache
+D:\Subjects\6 Semester\SCD Lab\Lab_Tasks\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.Form1.resources
+D:\Subjects\6 Semester\SCD Lab\Lab_Tasks\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.Properties.Resources.resources
+D:\Subjects\6 Semester\SCD Lab\Lab_Tasks\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.csproj.GenerateResource.cache
+D:\Subjects\6 Semester\SCD Lab\Lab_Tasks\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.csproj.CoreCompileInputs.cache
+D:\Subjects\6 Semester\SCD Lab\Lab_Tasks\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.exe
+D:\Subjects\6 Semester\SCD Lab\Lab_Tasks\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.pdb
+D:\Subjects\6 Semester\SCD Lab\Lab_Tasks\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.addTasbeeh.resources
+D:\Subject\UNI DATA\SDA\Lab_task_6\Lab_task_6\bin\Debug\Lab_task_6.exe.config
+D:\Subject\UNI DATA\SDA\Lab_task_6\Lab_task_6\bin\Debug\Lab_task_6.exe.manifest
+D:\Subject\UNI DATA\SDA\Lab_task_6\Lab_task_6\bin\Debug\Lab_task_6.application
+D:\Subject\UNI DATA\SDA\Lab_task_6\Lab_task_6\bin\Debug\Lab_task_6.exe
+D:\Subject\UNI DATA\SDA\Lab_task_6\Lab_task_6\bin\Debug\Lab_task_6.pdb
+D:\Subject\UNI DATA\SDA\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.csproj.AssemblyReference.cache
+D:\Subject\UNI DATA\SDA\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.csproj.SuggestedBindingRedirects.cache
+D:\Subject\UNI DATA\SDA\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.addTasbeeh.resources
+D:\Subject\UNI DATA\SDA\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.Form1.resources
+D:\Subject\UNI DATA\SDA\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.Properties.Resources.resources
+D:\Subject\UNI DATA\SDA\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.csproj.GenerateResource.cache
+D:\Subject\UNI DATA\SDA\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.csproj.CoreCompileInputs.cache
+D:\Subject\UNI DATA\SDA\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.exe.manifest
+D:\Subject\UNI DATA\SDA\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.application
+D:\Subject\UNI DATA\SDA\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.exe
+D:\Subject\UNI DATA\SDA\Lab_task_6\Lab_task_6\obj\Debug\Lab_task_6.pdb
